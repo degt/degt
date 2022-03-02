@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-A multi-dicipliplinary creative from Chile working as Lead Designer at School 4 One and Frontend Developer at Seer. I have ample experience designing and developing mobile and web applications. When I'm not designing, I love spending my time painting watercolor and taking pictures.
+A multi-dicipliplinary creative from Chile. I have ample experience designing and developing mobile and web applications. When I'm not designing, I love spending my time painting watercolor and taking pictures.
+
+- 📫 How to reach me: hola@degt.cl or via https://twitter.com/degt
 
 <!--
 **degt/degt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
